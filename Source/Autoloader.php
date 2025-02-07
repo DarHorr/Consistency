@@ -36,7 +36,7 @@ declare(strict_types=1);
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace Hoa\Consistency;
+namespace Hoa\Consistency\Source;
 
 /**
  * An [autoloader](http://php.net/autoload) is responsible to load symbols at
