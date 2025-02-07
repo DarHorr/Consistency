@@ -36,7 +36,7 @@ declare(strict_types=1);
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace Hoa\Consistency;
+namespace Hoa\Consistency\Source;
 
 /**
  * A collection of tools to ensure foreward and backward compatibility between
